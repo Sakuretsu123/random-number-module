@@ -2,7 +2,7 @@
 ### Assignment #7 Random Numbers (Marks 10)
 
 Objectives:
-* To make us of additional modules and se what commands are avaiable in them
+* To make us of additional modules and se what commands are available in them
 * To import modules into the current namespace
 * To use randomness to generate games of chance
 * Explore the randomrange, randint, random and shuffle functions

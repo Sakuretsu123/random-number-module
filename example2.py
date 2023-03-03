@@ -3,7 +3,7 @@
 """
 Pro tip!
 
-You can import a module so that it does not need the mdule name with the .
+You can import a module so that it does not need the module name with the .
 Be careful!  It imports the functions as though they were a part of your program,
 so you can't reuse any of the names of functions.
 """
