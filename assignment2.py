@@ -12,7 +12,7 @@ myList = ["Heads", "Tails"]
 
 
 if guess not in myList: 
-    print("invalid input, make sure to use cap or that you entered the right word")
+    print("invalid input, make sure to use a cap or that you entered the right word")
 
 if "Heads" in guess and x == 1: 
     print("Yay Heads ! you guessed correctly")
